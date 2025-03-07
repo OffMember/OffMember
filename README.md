@@ -17,7 +17,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OffMember?color=f27a04&labelColor=cc6600&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/OffMember?color=ea841f&labelColor=cc6600&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
