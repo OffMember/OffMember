@@ -56,8 +56,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
-<h2>Heading level 2</h2>
---------📊 Estatísticas 📊--------
+<h2>--------📊 Estatísticas 📊--------</h2>
 
 <p>
   <img 
