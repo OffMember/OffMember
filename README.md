@@ -75,7 +75,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="185" 
+      height="183" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OffMember&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
 </p>
