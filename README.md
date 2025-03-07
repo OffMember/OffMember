@@ -21,7 +21,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
         />
     </a>
 </p>
------- <p scr=color=ea841f </p>
+------ <p scr=color=ea841f
  ⌨ Linguagens e Tecnologias ⌨
 ------
 
