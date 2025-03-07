@@ -59,7 +59,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
 <br/>
 <br/>
 
-### 📊 Estatísticas
+------📊 Estatísticas------
 
 <p>
   <img 
