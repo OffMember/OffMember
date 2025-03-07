@@ -10,7 +10,7 @@ Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o e
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OffMember?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/OffMember?color=cc9900&style=for-the-badge&labelColor=dfac14&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/OffMember?tab=followers">
