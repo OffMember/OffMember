@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou desponibilizando minhas criações aqui, também tenho meu instagram pessoal: "[OffMember(https://www.instagram.com/offmember/)".
+Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou desponibilizando minhas criações aqui, também tenho meu instagram pessoal: (https://www.instagram.com/offmember/)".
 
 <p
     </a> 
