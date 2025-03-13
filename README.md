@@ -3,6 +3,7 @@
 **`Desenvolvedor Iniciante`**
 
 Me chamo Rafael Carvalho, tenho 20 anos e sou nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou desponibilizando minhas criações aqui, também tenho meu instagram pessoal: (https://www.instagram.com/offmember/)".
+Estou focando em aprender Python primeiro por vontade própria, mas na faculdade estou aprendendo SQL, HTML e VisualG
 
 <p
     </a> 
