@@ -10,7 +10,7 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 
 ---
 
-### 💻 Tech Stack
+### 💻 Minhas linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 
@@ -23,6 +23,9 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 
 <a href="https://www.instagram.com/offmember/">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/516/small/instagram-circle-logo-icon-ig-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="80">
+</a>
+<a href="(https://discord.gg/HUyVZGaCdZ)">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
