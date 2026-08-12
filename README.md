@@ -1,5 +1,5 @@
 ## Opa, bom dia! Sou o OffMember, programador e criador de Nova Meridiana.
-** Dev Senior **
+**Dev Senior**
 
 Me chamo Rafael Carvalho, tenho 22 anos e sou nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou disponibilizando minhas criações aqui.
 Amo trabalhar com Python, mas sei bastante de Html e Css que são meus pontos fortes.
