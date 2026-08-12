@@ -20,7 +20,10 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 
 <div align="center">
 
-[![GitHub](https://static.vecteezy.com/system/resources/thumbnails/065/386/516/small/instagram-circle-logo-icon-ig-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png)](https://www.instagram.com/offmember/)
+
+<a href="https://www.instagram.com/offmember/">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/516/small/instagram-circle-logo-icon-ig-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="40">
+</a>
 
 </div>
 
