@@ -32,10 +32,4 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 
 </div>
 
-<div align="center">
-
-⚡ Alguém aí tem um copo de leite com toddy?
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer&text=Algu%C3%A9m%20a%C3%AD%20tem%20um%20copo%20de%20leite%20com%20toddy%3F&fontSize=22&fontColor=fff)
