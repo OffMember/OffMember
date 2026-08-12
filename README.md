@@ -1,77 +1,51 @@
-## Opa, bom dia! Sou o OffMember, programador e criador de Nova Meridiana.
-**Dev Senior**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=OffMember&fontSize=50&fontColor=fff&animation=fadeIn)
 
-Me chamo Rafael Carvalho, tenho 22 anos e sou nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou disponibilizando minhas criações aqui.
-Amo trabalhar com Python, mas sei bastante de Html e Css que são meus pontos fortes.
+<div align="center">
 
-<p
-    </a> 
-    <a href="https://github.com/IffMember?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OffMember?color=cc9900&style=for-the-badge&labelColor=dfac14&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/OffMember?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OffMember?color=ea841f&labelColor=cc6600&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-<h2>⌨ Linguagens e Tecnologias ⌨</h2>
+### Dev Senior | São José dos Campos, SP
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<h2>📊 Estatísticas 📊</h2>
+Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino médio no Joaquim de Moura Candelária. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou disponibilizando minhas criações aqui. Amo trabalhar com Python, mas sei bastante de Html e Css que são meus pontos fortes.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=OffMember&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OffMember&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-      />
-</p>
+---
 
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+</div>
+
+---
+
+### 🌱 Currently
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OffMember)
+
+</div>
+
+---
+
+---
+
+---
+
+<div align="center">
+
+⚡ Alguém aí tem um copo de leite com toddy?
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
