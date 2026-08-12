@@ -13,7 +13,7 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 ### 💻 Minhas linguagens
 
 <a href="https://github.com/OffMember"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="130"></a>
-<a href="https://github.com/OffMember"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" width="100"></a>
+<a href="https://github.com/OffMember"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" width="95"></a>
 <a href="https://github.com/OffMember"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML" width="80"></a>
 
 ---
