@@ -24,11 +24,9 @@ Me chamo Rafael Carvalho, sou de 2004 e nativo de São Paulo. Concluí o ensino 
 
 
 <a href="https://www.instagram.com/offmember/">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/516/small/instagram-circle-logo-icon-ig-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="800">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/516/small/instagram-circle-logo-icon-ig-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="80">
 </a>
-<a href="(https://discord.gg/HUyVZGaCdZ)">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" width="80">
-</a>
+
 
 </div>
 
